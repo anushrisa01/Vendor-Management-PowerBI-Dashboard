@@ -6,7 +6,7 @@ This project is a two-page interactive Power BI dashboard developed to analyze v
 
 The dashboard helps procurement and finance teams monitor vendor performance and make data-driven decisions.
 
----
+
 
 ## 🚀 Dashboard Features
 
